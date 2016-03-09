@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Wed Mar 09 23:49:56 EET 2016
+threads=1
+total=4000
+sainsbury/behavioral/scrap__products__story.story=4000
+threadAverage=4000
